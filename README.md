@@ -1,3 +1,5 @@
+I put here the deobfuscated code (deobf.py). You have the way to deobf the code in way.py
+
 # Shark-VaimZork Paid Email Thread 
 <img src="Sincryption.png"><br>
 
